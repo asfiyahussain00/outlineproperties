@@ -1,0 +1,143 @@
+.one{
+    background-color: rgb(105, 183, 183);
+    color: white;
+    width: 150px;
+    height: 150px;
+    margin-left: 300px;
+    text-align: center;
+    outline-style: dotted;
+    line-height: 150px;
+    border-radius: 10px;
+   
+   
+}
+
+.two{
+
+    background-color: rgb(144, 144, 248);
+    color: white;
+    width: 150px;
+    height: 150px;
+    margin-left: 500px;
+    margin-top: -200px;
+    text-align: center;
+    outline-style: dashed;
+    line-height: 150px;
+    border-radius: 10px;
+   
+   
+   
+}
+
+
+.three{
+    background-color: rgb(4, 48, 18);
+    color: white;
+    width: 150px;
+    height: 150px;
+    margin-left: 700px;
+    margin-top: -200px;
+    text-align: center;
+outline-style: solid;
+line-height: 150px;
+border-radius: 10px;
+   
+
+
+
+}
+
+.four{
+
+    background-color: rgb(185, 81, 188);
+    color: white;
+    width: 150px;
+    height: 150px;
+    margin-left: 300px;
+    text-align: center;
+    outline-style: double;
+    line-height: 150px;
+    border-radius: 10px;
+   
+   
+
+}
+
+.five{
+    background-color: rgb(223, 63, 19);
+    color: white;
+    width: 150px;
+    height: 150px;
+    margin-left: 500px;
+    margin-top: -200px;
+    text-align: center;
+    outline-style: groove;
+    line-height: 150px;
+    border-radius: 10px;
+   
+  
+
+}
+
+.six{
+    background-color: rgb(20, 11, 152);
+    color: white;
+    width: 150px;
+    height: 150px;
+    margin-left: 700px;
+    margin-top: -200px;
+    text-align: center;
+    outline-style: ridge;
+    line-height: 150px;
+    border-radius: 10px;
+   
+   
+}
+
+.seven{
+    background-color: rgb(6, 92, 92);
+    color: white;
+    width: 150px;
+    height: 150px;
+    margin-left: 300px;
+    text-align: center;
+    outline-style: inset;
+    line-height: 150px;
+    border-radius: 10px;
+   
+    
+}
+
+.eight{
+    background-color: rgb(165, 182, 96);
+    color: white;
+    width: 150px;
+    height: 150px;
+    margin-left: 500px;
+    margin-top: -200px;
+    text-align: center;
+    outline-style: outset;
+    line-height: 150px;
+    border-radius: 10px;
+   
+  
+  
+
+
+}
+
+.main{
+    
+    margin-top: 100px;
+   
+}
+body{
+    background-color: black;
+}
+
+.handing{
+color: whitesmoke;
+margin-left: 300px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
